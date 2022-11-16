@@ -1,0 +1,536 @@
+
+/*Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 599.98px) { 
+
+    .top-bar {
+       
+        display: none;
+    }
+    nav#navbar_top {
+        padding: 20px 40px;
+       
+    }
+    .searching {
+        display: none;
+    }
+    button.btn.offcanvas-toggle {
+        color: #23003B;
+        display: none;
+    }
+    .carousel-caption {
+     
+        top: 0;
+    }
+    .carousel-caption h5 {
+        font-size: 28px;
+        margin-bottom: 0;
+    }
+    .carousel-caption p {
+        font-size: 12px;
+        font-weight: 300;
+        padding-right: 0px;
+    }
+    a.btn.read-more-btn {
+       
+        padding: 0px 6px 0px;
+      
+    }
+    a.btn.contact-btn {
+       
+         padding: 0px 6px 0px; 
+       
+    }
+    .carousel-btn {
+        margin-top: -19px;
+        margin-left: -25px;
+    }
+    .profile-box {
+        margin-bottom: 66px !important;
+    }
+    section.company-profile {
+        padding-bottom: 0px; 
+        margin-top: 0px;
+    }
+
+    .about-us-img {
+        position: relative;
+        margin-left: 0px; 
+    }
+    .section-title h2 {
+    
+        display: none;
+    }
+    .section-title h3 {
+        font-size: 25px;
+        margin-top: 72px;
+    }
+    .section-title p {
+        font-size: 18px !important;
+    
+    }
+    .single-service-box .v-card__title {
+        
+        display: grid; 
+        
+       
+    } 
+
+    .feature-text {
+        margin-left: 0px; 
+    }
+    .single-feature-box h3 {
+     
+        text-align: center;
+        width: 100%;
+    }
+    section.company-profile {
+        padding-bottom: 0px;
+        margin-top: -28px;
+    }
+    .profile-box p {
+        margin-top: 9px;
+        margin-left: 34px;
+        font-size: 18px;
+    }
+    .section-title h1 {
+      
+        display: none;
+    }
+    
+  
+    .profile-inner {
+       
+        padding-bottom: 100px;
+       
+    }
+    .section-padding {
+        padding: 0;
+    }
+    .single-service-box {
+        text-align: center;
+      
+    }
+    .single-feature-box {
+        text-align: center;
+        margin-bottom: 80px;
+    }
+    .portfolio-area {
+        padding: 0 0;
+    }
+    section.team-area .section-title h3 {
+        margin-top: 7px;
+        font-size: 29px;
+        margin-bottom: 12px;
+    }
+    .author-content {
+        margin-top: -26px;
+        overflow: hidden;
+    }
+    .team .section-title {
+        text-align: center;
+    }
+    .technology-section .section-title h3 {
+        padding: 0 0px;
+        text-align: center;
+        margin-left: 0;
+    }
+    section.team .info-btn {
+        text-align: center;
+        padding: 19px;
+    }
+    section.team .info-btn .read-more-btn {
+        padding: 7px 19px;
+        margin-top: -20px;
+    }
+    .case-label {
+        top: 309px;
+    }
+    .single-casestudy-box {
+        
+        margin-bottom: 71px;
+    }
+    .feature-content-box {
+        padding-right: 5px;
+    }
+    .team-member-inner {
+        
+        margin-left: 0px;
+        
+    }
+    .case-label {
+        top: 382px !important;
+    }
+    .testimonial .section-title h3 {
+        font-size: 36px;
+       
+        text-align: left;
+       
+    }
+
+    .testimonial {
+        background: #f8f8f8;
+        padding: 20px 0;
+    }
+    .testimonial-big-img {
+        margin-top: 26px;
+    }
+    .blog-section .case-label {
+        top: 306px;
+    }
+    .subscribe-heading {
+        margin: 29px 0;
+        padding: 0 0;
+    }
+    .subscribe-heading h3 {
+        font-size: 26px;
+       
+    }
+    .layout.subscrib-inner {
+        
+        padding: 0 0px; 
+    }
+    .subscrib-inner button.v-btn {
+        
+        
+        margin-left: 0px; 
+       
+    }
+
+   
+    .v-image.v-responsive.theme--light {
+        margin: auto;
+    }
+    .social-logo ul li {
+        display: inline-block !important;
+    }
+    .v-footer ul li {
+        
+        display: block;
+        
+    }
+
+ }
+
+/*Small devices (landscape phones, 576px and up)*/ 
+@media (min-width: 600px) and (max-width: 959.98px) { 
+
+    .layout.subscrib-inner {
+        
+        padding: 0 0px; 
+    }
+
+    .headr-top-bar {
+       
+        display: none;
+    }
+    nav#navbar_top {
+        padding: 20px 40px;
+       
+    }
+    .searching {
+        display: none;
+    }
+    button.btn.offcanvas-toggle {
+        color: #23003B;
+        display: none;
+    }
+    .carousel-caption {
+     
+        top: 0;
+    }
+    .carousel-caption h5 {
+        font-size: 28px;
+        margin-bottom: 0;
+    }
+    .carousel-caption p {
+        font-size: 12px;
+        font-weight: 300;
+        padding-right: 0px;
+    }
+    a.btn.read-more-btn {
+       
+        padding: 0px 6px 0px;
+      
+    }
+    a.btn.contact-btn {
+       
+         padding: 0px 6px 0px; 
+       
+    }
+    .carousel-btn {
+        margin-top: -19px;
+        margin-left: -25px;
+    }
+    .about-us-img {
+        position: relative;
+        margin-left: 0px; 
+    }
+    .section-title h2 {
+     
+        font-size: 69px;
+        
+    }
+    .section-title h3 {
+        font-size: 26px;
+        margin-top: -44px;
+    }
+    .profile-box h2 {
+        
+        font-size: 70px;
+      
+    }
+    .section-title p {
+        font-size: 18px !important;
+       
+    }
+    .profile-box p {
+       
+        margin-top: 3px;
+       
+        margin-left: -2px;
+        
+    }
+    section.company-profile {
+        padding-bottom: 35px;
+        margin-top: -39px;
+    }
+    .profile-box h2 {
+   
+        position: static;
+        
+    }
+    .profile-box p {
+        position: static;
+        font-size: 15px;
+    }
+    .profile-inner {
+        padding-bottom: 35px;
+    }
+    .section-padding {
+        padding: 0;
+    }
+    .single-service-box {
+        text-align: center;
+      
+    }
+    .single-feature-box {
+        text-align: center;
+        margin-bottom: 80px;
+    }
+    .portfolio-area {
+        padding: 0 0;
+    }
+
+    .service-bg {
+        
+        padding-top: 47px !important;
+        
+    }
+    .team .section-title {
+        text-align: center;
+    }
+
+    .single-casestudy-box h3 a {
+     
+        font-size: 18px;
+    
+    }
+    .case-label {
+       
+        top: 217px !important;
+        
+    }
+    .section-title h1 {
+        
+        font-size: 70px !important;
+        
+    }
+       
+    .technology-section .section-title h3 {
+        padding: 0 0px;
+        text-align: center;
+        margin-left: 0;
+    }
+    section.team .info-btn {
+        text-align: center;
+        padding: 19px;
+    }
+    section.team .info-btn .read-more-btn {
+        padding: 7px 19px;
+        margin-top: -20px;
+    }
+    .case-label {
+        top: 262px;
+    }
+    .single-casestudy-box {
+        
+        margin-bottom: 71px;
+    }
+
+    .testimonial-big-img {
+        margin-top: 26px;
+    }
+    .blog-section .case-label {
+       
+        top: 264px;
+    }
+    .subscribe-heading {
+        margin: 29px 0;
+        padding: 0 32px;
+    }
+    .subscribe-heading h3 {
+        font-size: 26px;
+       
+    }
+    .subscribe-inner input {
+        padding: 15px;
+        width: 88%;
+    }
+    .subscribe-inner button {
+        background: #23003B;
+        
+        margin-top: 13px;
+    }
+
+
+
+ }
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 960px) and (max-width: 1263.98px) { 
+
+    .carousel-caption {
+      
+        top: 3%;
+      
+    }
+    .carousel-caption h5 {
+        font-size: 60px;
+        font-weight: 800;
+    }
+    .carousel-caption p {
+      
+        padding-right: 0px; 
+    }
+    .carousel-btn {
+        margin-top: -29px;
+    }
+    .section-title {
+        
+        margin-top: 40px;
+    }
+    .profile-box p {
+       
+
+        font-size: 17px;
+       
+    }
+    .single-feature-box {
+        margin-bottom: 35px;
+    }
+    .team .info-btn {
+       
+        margin-bottom: 28px;
+    }
+    .technology-section .section-title h3 {
+        padding: 0 75px;
+       
+    }
+    .section-padding {
+        padding: 46px 0;
+       
+    }
+    .case-study-area {
+        margin-top: -141px;
+    }
+    .case-label {
+       
+        top: 269px;
+    }
+    .case-heading h3 a {
+      
+        font-size: 24px;
+       
+    }
+    .section-title h3 {
+        font-size: 32px;
+       
+    }
+    .testimonial-big-img {
+        text-align: right;
+        margin-right: -44px;
+        margin-left: 54px;
+        margin-top: 39px;
+    }
+    .blog-section .case-label {
+        
+        left: 18px;
+        top: 272px;
+    }
+    .subscribe-heading {
+        margin: 29px 0;
+        padding: 0 0px;
+    }
+    .single-casestudy-box {
+       
+        margin-bottom: 50px;
+    }
+
+
+
+ }
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 1264px) and (max-width: 1903.98px) {
+    
+
+    .carousel-caption h5 {
+        font-size: 68px;
+        font-weight: 800;
+    }
+   
+
+    .service-title h3 {
+        font-size: 22px;
+    }
+    .technology-section .section-title h3 {
+        padding: 0 192px;
+        
+    }
+    .case-study-area {
+        padding-top: 10px;
+    }
+    .case-label {
+       
+        top: 371px;
+    }
+    .blog-section .case-label {
+        position: absolute;
+        left: 25px;
+        top: 234px;
+    }
+
+ }
+
+
+ /* Extra-Large devices (desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1299.98px) { 
+ 
+
+
+
+ }
+
+/* Extra Extra large devices (large desktops, 1400px and up) */
+@media (min-width: 1300px) {
+    
+    
+
+    
+
+
+
+
+    
+
+}
